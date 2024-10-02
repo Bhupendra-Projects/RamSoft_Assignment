@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamSoft_Assignment", "RamSoft_Assignment\RamSoft_Assignment.csproj", "{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D411033-59CA-4426-B28B-692B009526F7}
+	EndGlobalSection
+EndGlobal

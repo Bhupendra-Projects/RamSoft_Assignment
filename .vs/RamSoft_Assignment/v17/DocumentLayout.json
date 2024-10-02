@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\tests\\repositories\\columnrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\tests\\repositories\\columnrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\ramsoft_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\ramsoft_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\tests\\services\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\tests\\services\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\tests\\services\\columnservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\tests\\services\\columnservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\tests\\repositories\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\tests\\repositories\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\repositories\\columnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\repositories\\columnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\services\\columnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\services\\columnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\controllers\\columncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\controllers\\columncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\repositories\\icolumnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\repositories\\icolumnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\services\\icolumnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\services\\icolumnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\data\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\data\\taskmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\dtos\\columndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\dtos\\columndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\models\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\models\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|c:\\users\\91888\\source\\repos\\ramsoft_assignment\\ramsoft_assignment\\ramsoft_assignment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35A62DA7-85A7-4D5F-A8B6-1201A1BD49BE}|RamSoft_Assignment\\RamSoft_Assignment.csproj|solutionrelative:ramsoft_assignment\\ramsoft_assignment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RamSoft_Assignment",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\RamSoft_Assignment.csproj",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\RamSoft_Assignment.csproj",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\RamSoft_Assignment.csproj",
+              "RelativeToolTip": "RamSoft_Assignment\\RamSoft_Assignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T09:04:39.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Repositories\\RepositoryTests.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Tests\\Repositories\\RepositoryTests.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Repositories\\RepositoryTests.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Tests\\Repositories\\RepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:22:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColumnRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Repositories\\ColumnRepositoryTests.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Tests\\Repositories\\ColumnRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Repositories\\ColumnRepositoryTests.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Tests\\Repositories\\ColumnRepositoryTests.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:19:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:59:28.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColumnServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Services\\ColumnServiceTests.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Tests\\Services\\ColumnServiceTests.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Services\\ColumnServiceTests.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Tests\\Services\\ColumnServiceTests.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:08:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Services\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Tests\\Services\\TaskServiceTests.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Tests\\Services\\TaskServiceTests.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Tests\\Services\\TaskServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:12:26.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColumnRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\ColumnRepository.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Repositories\\ColumnRepository.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\ColumnRepository.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Repositories\\ColumnRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:12:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwEYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:52:51.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:59:18.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Models\\Task.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:47:49.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\TaskService.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Services\\TaskService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:00:26.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IColumnRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\IColumnRepository.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Repositories\\IColumnRepository.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Repositories\\IColumnRepository.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Repositories\\IColumnRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:59:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IColumnService.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\IColumnService.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Services\\IColumnService.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\IColumnService.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Services\\IColumnService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:00:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColumnService.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\ColumnService.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Services\\ColumnService.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\ColumnService.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Services\\ColumnService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:00:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Services\\ITaskService.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Services\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:00:14.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ColumnController.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Controllers\\ColumnController.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Controllers\\ColumnController.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Controllers\\ColumnController.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Controllers\\ColumnController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:22:36.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Data\\TaskManagementDbContext.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Data\\TaskManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Data\\TaskManagementDbContext.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Data\\TaskManagementDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA2wAkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:50:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColumnDto.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\DTOs\\ColumnDto.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\DTOs\\ColumnDto.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\DTOs\\ColumnDto.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\DTOs\\ColumnDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:45:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Column.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Models\\Column.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Models\\Column.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Models\\Column.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Models\\Column.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:48:23.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\Program.cs",
+              "RelativeToolTip": "RamSoft_Assignment\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:43:58.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\appsettings.json",
+              "RelativeToolTip": "RamSoft_Assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T07:52:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RamSoft_Assignment.http",
+              "DocumentMoniker": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\RamSoft_Assignment.http",
+              "RelativeDocumentMoniker": "RamSoft_Assignment\\RamSoft_Assignment.http",
+              "ToolTip": "C:\\Users\\91888\\source\\repos\\RamSoft_Assignment\\RamSoft_Assignment\\RamSoft_Assignment.http",
+              "RelativeToolTip": "RamSoft_Assignment\\RamSoft_Assignment.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-01T07:43:32.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
