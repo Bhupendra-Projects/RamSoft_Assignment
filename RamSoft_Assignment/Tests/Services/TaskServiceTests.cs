@@ -19,7 +19,7 @@ namespace RamSoft_Assignment.Tests.Services
         }
 
         [Test]
-        public async void AddTaskAsync_ShouldReturnTrue_WhenTaskIsAddedSuccessfully()
+        public async System.Threading.Tasks.Task AddTaskAsync_ShouldReturnTrue_WhenTaskIsAddedSuccessfully()
         {
             // Arrange
             var task = new Task { Id = 1, Name = "Test Task" };
@@ -34,7 +34,7 @@ namespace RamSoft_Assignment.Tests.Services
         }
 
         [Test]
-        public async void DeleteTaskAsync_ShouldReturnTrue_WhenTaskIsDeletedSuccessfully()
+        public async System.Threading.Tasks.Task DeleteTaskAsync_ShouldReturnTrue_WhenTaskIsDeletedSuccessfully()
         {
             // Arrange
             int taskId = 1;
@@ -49,7 +49,7 @@ namespace RamSoft_Assignment.Tests.Services
         }
 
         [Test]
-        public async void GetTaskByIdAsync_ShouldReturnTask_WhenTaskExists()
+        public async System.Threading.Tasks.Task GetTaskByIdAsync_ShouldReturnTask_WhenTaskExists()
         {
             // Arrange
             int taskId = 1;
@@ -67,7 +67,7 @@ namespace RamSoft_Assignment.Tests.Services
         }
 
         [Test]
-        public async void UpdateTaskAsync_ShouldReturnTrue_WhenTaskIsUpdatedSuccessfully()
+        public async System.Threading.Tasks.Task UpdateTaskAsync_ShouldReturnTrue_WhenTaskIsUpdatedSuccessfully()
         {
             // Arrange
             var task = new Task { Id = 1, Name = "Updated Task" };

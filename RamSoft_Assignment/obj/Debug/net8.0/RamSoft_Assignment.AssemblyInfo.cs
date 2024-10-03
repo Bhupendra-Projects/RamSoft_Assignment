@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RamSoft_Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d95eebd35438b664e0665395671889f11d631b33")]
 [assembly: System.Reflection.AssemblyProductAttribute("RamSoft_Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RamSoft_Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

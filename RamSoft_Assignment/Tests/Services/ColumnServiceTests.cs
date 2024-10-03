@@ -21,7 +21,7 @@ namespace RamSoft_Assignment.Tests.Services
         }
 
         [Test]
-        public async void AddColumnAsync_ShouldReturnTrue_WhenColumnIsAddedSuccessfully()
+        public async System.Threading.Tasks.Task AddColumnAsync_ShouldReturnTrue_WhenColumnIsAddedSuccessfully()
         {
             // Arrange
             var column = new Column { Id = 1, Name = "To Do" };
@@ -36,7 +36,7 @@ namespace RamSoft_Assignment.Tests.Services
         }
 
         [Test]
-        public async void AddColumnAsync_ShouldCallRepositoryMethod_WhenCalled()
+        public async System.Threading.Tasks.Task AddColumnAsync_ShouldCallRepositoryMethod_WhenCalled()
         {
             // Arrange
             var column = new Column { Id = 1, Name = "In Progress" };
@@ -50,7 +50,7 @@ namespace RamSoft_Assignment.Tests.Services
         }
 
         [Test]
-        public async void AddColumnAsync_ShouldReturnTrue_ForAnyValidColumn()
+        public async System.Threading.Tasks.Task AddColumnAsync_ShouldReturnTrue_ForAnyValidColumn()
         {
             // Arrange
             var column = new Column { Id = 2, Name = "Done" };

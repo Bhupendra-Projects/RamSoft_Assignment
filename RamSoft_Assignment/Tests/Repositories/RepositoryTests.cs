@@ -30,7 +30,7 @@ namespace RamSoft_Assignment.Tests.Repositories
         }
 
         [Test]
-        public async void AddTaskAsync_ShouldReturnTrue_WhenTaskIsAddedSuccessfully()
+        public async System.Threading.Tasks.Task AddTaskAsync_ShouldReturnTrue_WhenTaskIsAddedSuccessfully()
         {
             // Arrange
             var task = new Task { Id = 1, Name = "Task 1", Description = "Test Task", ColumnId = 1, IsFavorited = false };
@@ -46,7 +46,7 @@ namespace RamSoft_Assignment.Tests.Repositories
         }
 
         [Test]
-        public async void GetTaskByIdAsync_ShouldReturnTask_WhenTaskExists()
+        public async System.Threading.Tasks.Task GetTaskByIdAsync_ShouldReturnTask_WhenTaskExists()
         {
             // Arrange
             var task = new Task { Id = 1, Name = "Task 1", Description = "Test Task", ColumnId = 1, IsFavorited = false };
@@ -64,7 +64,7 @@ namespace RamSoft_Assignment.Tests.Repositories
         }
 
         [Test]
-        public async void GetTaskByIdAsync_ShouldReturnNull_WhenTaskDoesNotExist()
+        public async System.Threading.Tasks.Task GetTaskByIdAsync_ShouldReturnNull_WhenTaskDoesNotExist()
         {
             // Act
             var result = await _taskRepository.GetTaskByIdAsync(999); // Non-existent ID
@@ -74,7 +74,7 @@ namespace RamSoft_Assignment.Tests.Repositories
         }
 
         [Test]
-        public async void UpdateTaskAsync_ShouldReturnTrue_WhenTaskIsUpdatedSuccessfully()
+        public async System.Threading.Tasks.Task UpdateTaskAsync_ShouldReturnTrue_WhenTaskIsUpdatedSuccessfully()
         {
             // Arrange
             var task = new Task { Id = 1, Name = "Task 1", Description = "Test Task", ColumnId = 1, IsFavorited = false };
@@ -94,7 +94,7 @@ namespace RamSoft_Assignment.Tests.Repositories
         }
 
         [Test]
-        public async void DeleteTaskAsync_ShouldReturnTrue_WhenTaskIsDeletedSuccessfully()
+        public async System.Threading.Tasks.Task DeleteTaskAsync_ShouldReturnTrue_WhenTaskIsDeletedSuccessfully()
         {
             // Arrange
             var task = new Task { Id = 1, Name = "Task 1", Description = "Test Task", ColumnId = 1, IsFavorited = false };
@@ -111,7 +111,7 @@ namespace RamSoft_Assignment.Tests.Repositories
         }
 
         [Test]
-        public async void DeleteTaskAsync_ShouldReturnFalse_WhenTaskDoesNotExist()
+        public async System.Threading.Tasks.Task DeleteTaskAsync_ShouldReturnFalse_WhenTaskDoesNotExist()
         {
             // Act
             var result = await _taskRepository.DeleteTaskAsync(999); // Non-existent ID
